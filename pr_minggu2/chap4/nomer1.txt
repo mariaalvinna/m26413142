@@ -1,0 +1,3 @@
+$ mkdir $HOME/projects/
+$ touch $HOME/projects/house{1..9}
+$ ls $HOME/projects/house{1..9}

@@ -1,0 +1,2 @@
+basename /usr/share/doc/
+basen<Tab>/u<Tab>sh<Tab>do<Tab>

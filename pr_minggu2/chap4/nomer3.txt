@@ -1,0 +1,1 @@
+$ cp $HOME/projects/houses[15] $HOME/projects/houses
