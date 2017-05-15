@@ -1,0 +1,11 @@
+--2017-04-06 20:04:00--  http://api.worldbank.org/v2/en/indicator/SI.POV.GINI?downloadformat=csv
+Resolving api.worldbank.org (api.worldbank.org)... 52.202.62.84
+Connecting to api.worldbank.org (api.worldbank.org)|52.202.62.84|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20131 (20K) [application/zip]
+Saving to: `SI.POV.GINI?downloadformat=csv.1'
+
+     0K .......... .........                                  100% 77.6K=0.3s
+
+2017-04-06 20:04:02 (77.6 KB/s) - `SI.POV.GINI?downloadformat=csv.1' saved [20131/20131]
+

@@ -1,0 +1,17 @@
+find adalah untuk mencari file pada suatu direktori aktif.
+locate adalah untuk mencari suatu file pada direktori lain 
+yang sedang tidak dikunjungi
+
+perintah ini digunakan untuk mengetahui dimana letak file/direktori, fungsinya
+kurang lebih sama dengan find, bedanya locate menggunakan database (biasanya 
+terletak di /var/lib/located) yang dapat diupdate menggunakan perintah updatedb.
+
+contoh find: 
+name : find/home -name linuxsec.txt
+perm : find . -perm 644 -print
+size : find . -size 1 -print
+user : find/home -user rdp -print
+
+contoh locate:
+# locate namanya            
+ 
